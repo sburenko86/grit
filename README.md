@@ -36,6 +36,9 @@ Grit's Git repo is available on GitHub, which can be browsed at:
 
     http://github.com/mojombo/grit
 
+
+
+
 and cloned with:
 
     git clone git://github.com/mojombo/grit.git
